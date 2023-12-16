@@ -1,0 +1,16 @@
+/*
+let nome; //declarou a variavel
+nome = 'Pedro'; //inicializando a variavel
+console.log(nome);
+nome = 'otavio';
+console.log(nome);
+*/
+
+// NÃO PODEMOS CRIAR VARIÁRIAVEIS COM PALAVRAS RESEVADAS
+// VARIÁVEIS PRECISAM TER NOMES SIGNIFICATIVOS
+
+// NÃO PODEMOS COMEÇAR O NOME DE VARIAVEIS COM NÚMEROS
+// NÃO PODEM CONTER ESPAÇAOS OU TRALOÇOS
+// UTILIAMOS CAMELCASE
+// NÃO ODE MODIFICAR O VALOR DE UMA CONSTANTES
+// NÃO UTILIZAR "VAR" E SIM "CONST"
